@@ -39,5 +39,6 @@ class TAppTheme{
     elevatedButtonTheme: TElevatedButtonTheme.darkElevatedButtonTheme,
     outlinedButtonTheme: TOutlinedButtonTheme.darkOutlinedButtonTheme,
     inputDecorationTheme: TTextFieldTheme.darkInputDecorationTheme
+    
   );
 }
